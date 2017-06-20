@@ -1,0 +1,6 @@
+*.img
+*.bin
+*.zip
+
+files/
+android/

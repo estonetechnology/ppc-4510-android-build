@@ -1,0 +1,5 @@
+mfgtool.log
+device0.xml
+MfgToolLibLog.txt
+Profiles/Linux/OS Firmware/files/android/sabresd/*.img
+Profiles/Linux/OS Firmware/files/android/sabresd/*.imx
