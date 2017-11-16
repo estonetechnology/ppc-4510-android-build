@@ -1,7 +1,7 @@
 #!/bin/bash
 BUILD_TIME=`date +%Y%m%d`
 ROOT_PWD=`pwd`
-MODULE_NAME="PPC-4510-MNC-HABEY"
+MODULE_NAME="EMB-2230-MNC-HABEY"
 
 #sabresd_6dq-user
 ANDROID_PRODUCT=sabresd_6dq
